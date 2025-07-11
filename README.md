@@ -12,7 +12,7 @@
 - ☁️ DevOps: Docker, AWS, GitHub Actions
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?deepak-kr19&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepak-kr19&show_icons=true&theme=radical)
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepak-kr19)
