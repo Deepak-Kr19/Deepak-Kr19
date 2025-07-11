@@ -1,16 +1,21 @@
 ## Hi there 👋
+# 👋 Hi there, I'm John Doe
 
-<!--
-**Deepak-Kr19/Deepak-Kr19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m a passionate Full Stack Developer from India.  
+💻 I love building web apps with React, Node.js, and MongoDB.  
+📚 Currently learning DevOps & Cloud (AWS, Docker, Kubernetes).  
+📫 How to reach me: [LinkedIn](https://linkedin.com/in/yourname) | [Twitter](https://twitter.com/yourhandle)
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- 💻 Frontend: React, HTML, CSS, Tailwind
+- ⚙️ Backend: Node.js, Express
+- 🛢️ Database: MongoDB, PostgreSQL
+- ☁️ DevOps: Docker, AWS, GitHub Actions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourname)
+[![Twitter](https://img.shields.io/badge/Twitter-black?logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+
